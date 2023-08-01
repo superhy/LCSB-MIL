@@ -7,3 +7,5 @@
 running with:
 
 python run_main_[task_id].py
+
+#### Will add more following code in journal version: Flexible and Highly-Efficient Feature Perception for Molecular Traits Prediction via Self-interactive Deep Learning
